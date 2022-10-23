@@ -1,4 +1,5 @@
 # W6_Sound_Visualization
+- LEARN FROM THE CODING TRAIN AND YOU TUBE SEARCH "Sound Visualization"
 - 1 - 8 : DO - RE - MI - FA - SOL - LA - SI - DO+ 
 - 9 : MUSIC CHILL 
 - Q -> I : Bling bling , wood , runnerway , trip , cute sound , ... 
