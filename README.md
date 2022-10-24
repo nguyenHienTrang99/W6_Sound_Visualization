@@ -1,5 +1,5 @@
 # W6_Sound_Visualization
-- LEARN FROM THE CODING TRAIN AND YOU TUBE SEARCH "Sound Visualization"
+- LEARN FROM "Sound Visualization" : https://www.youtube.com/playlist?list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW
 - 1 - 8 : DO - RE - MI - FA - SOL - LA - SI - DO+ 
 - 9 : MUSIC CHILL 
 - Q -> I : Bling bling , wood , runnerway , trip , cute sound , ... 
